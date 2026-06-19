@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-vmsrxg.2ndshwr.com/sitemap.xml
